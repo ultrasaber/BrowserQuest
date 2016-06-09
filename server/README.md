@@ -7,7 +7,7 @@ The game server currently runs on nodejs v0.4.7 (but should run fine on the late
 - log
 - bison
 - websocket
-- websocket-server
+- node-websocket-server
 - sanitizer
 - memcache (only if you want metrics)
 
